@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Story App</string>
+
+    <string name="hint_email">Masukkan email anda</string>
+    <string name="hint_name">Masukkan nama anda</string>
+    <string name="hint_password">Masukkan kata sandi anda</string>
+    <string name="button_text_login">Masuk</string>
+    <string name="button_text_register">Buat akun</string>
+    <string name="button_text_dont_have_account">Saya tidak memiliki akun</string>
+    <string name="action_signout">Keluar</string>
+    <string name="error_email_not_valid">Email salah</string>
+    <string name="error_password_not_valid">Kata sandi salah</string>
+    <string name="hint_description_edit_text">Masukkan deskripsi</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="must_filled">Harus diisi</string>
+    <string name="image_logo">Gambar logo</string>
+    <string name="text_register">Daftar</string>
+    <string name="text_sign_in">Masuk</string>
+    <string name="created_add">Dibuat pada %1$s,</string>
+    <string name="login_success">Selamat datang %s!</string>
+    <string name="login_failed">Cek lagi email dan password anda!</string>
+    <string name="register_success">Berhasil daftar!</string>
+    <string name="register_failed">Email sudah terpakai!</string>
+    <string name="upload_success">Story berhasil diunggah!</string>
+    <string name="upload_failed">Story gagal diunggah!</string>
+    <string name="upload_desc">Deskripsi tidak boleh kosong!</string>
+    <string name="upload_image">Gambar tidak boleh kosong!</string>
+    <string name="upload_permission">Tidak mendapatkan izin!</string>
+    <string name="name_user">Nama</string>
+    <string name="date">Tanggal</string>
+    <string name="desc">deskripsi</string>
+    <string name="language_setting">Pengaturan Bahasa</string>
+    <string name="title_home">Home</string>
+    <string name="location">Lokasi</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="please_activate_location_message">Tolong Aktivkan lokasi anda</string>
+    <string name="location_permission_denied">Izin lokasi tidak diberikan</string>
+    <string name="location_permission_denied_action">Mengubah peraturan</string>
+    <string name="style_map_failed">Style parsing gagal.</string>
+    <string name="style_map_error">Tidak dapat mencari style map. Error: %s</string>
+
+</resources>
